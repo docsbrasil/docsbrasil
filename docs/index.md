@@ -43,6 +43,12 @@ features:
     details: Pest é um framework de testes PHP que fornece uma sintaxe limpa e simples para escrever testes.
 ---
 
+### Agradecimentos
+
+Em nome de toda a equipe do Docs Brasil, gostaríamos de expressar nossa imensa gratidão ao Alexandre Cardoso, do canal <a href="https://www.youtube.com/@AlexandreCardoso" target="_blank">Clube Fullstack</a>, por acreditar no nosso projeto. Seu apoio e confiança são fundamentais para o nosso crescimento, e sua contribuição para a comunidade de desenvolvimento é inspiradora.
+
+O canal <a href="https://www.youtube.com/@AlexandreCardoso" target="_blank">Clube Fullstack</a>, que compartilha conteúdos valiosos sobre PHP, Laravel, Alpine, Vue.js e muito mais. Alexandre, obrigado por estar ao nosso lado nessa jornada e por acreditar no potencial do Docs Brasil. É uma honra ter você como parceiro!
+
 <style>
 .VPImage[alt="Docs Brasil"] {
     border-radius: 12px;
