@@ -18,6 +18,7 @@ hero:
 features:
   - icon:
       src: /features/laravel.svg
+      alt: Laravel
       width: 50
     title: Laravel (WIP)
     details: O Laravel é um framework PHP livre e open-source criado por Taylor Otwell para o desenvolvimento de aplicações web seguindo o padrão MVC. Veja a documentação em português.
@@ -26,19 +27,22 @@ features:
 
   - icon:
       src: /features/livewire.svg
+      alt: Livewire
       width: 50
     title: Livewire (Não Iniciado)
     details: Livewire é um framework para Laravel que simplifica a construção de interfaces dinâmicas.
 
   - icon:
       src: /features/alpine.svg
+      alt: Alpine.js
       width: 50
     title: Alpine.js (Não Iniciado)
     details: Alpine.js é um framework JavaScript minimalista para a construção de interfaces de usuário interativas.
 
   - icon:
       src: /features/pest.svg
-      width: 50
+      width: 90
+      alt: Pest
     title: Pest (Não Iniciado)
     details: Pest é um framework de testes PHP que fornece uma sintaxe limpa e simples para escrever testes.
 ---
@@ -50,6 +54,10 @@ Em nome de toda a equipe do Docs Brasil, gostaríamos de expressar nossa imensa 
 O canal <a href="https://www.youtube.com/@AlexandreCardoso" target="_blank">Clube Fullstack</a>, que compartilha conteúdos valiosos sobre PHP, Laravel, Alpine, Vue.js e muito mais. Alexandre, obrigado por estar ao nosso lado nessa jornada e por acreditar no potencial do Docs Brasil. É uma honra ter você como parceiro!
 
 <style>
+.VPImage[alt="Pest"] {
+  margin-top: 15px;
+  margin-bottom: 30px !important;
+}
 .VPImage[alt="Docs Brasil"] {
     border-radius: 12px;
 }
